@@ -1,5 +1,5 @@
 # projetonetflix1
-Projeto interface do Netflix concluído...
+Projeto interface da Netflix concluído...
 
 Obrigado pelos ensinamentos !
 
